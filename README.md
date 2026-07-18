@@ -7,9 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-  # Karyatra: Job Tracking Modulation and Resource Recommendation
+  # CareerTrack: Job Tracking Modulation and Resource Recommendation
 
-Karyatra is an AI-powered job application tracking system developed as a web app and Chrome extension. It streamlines job searches, analyzes skill gaps using NLP, and recommends personalized learning resources.
+CareerTrack is an AI-powered job application tracking system developed as a web app and Chrome extension. It streamlines job searches, analyzes skill gaps using NLP, and recommends personalized learning resources.
 
 ## 🎯 Objectives
 
